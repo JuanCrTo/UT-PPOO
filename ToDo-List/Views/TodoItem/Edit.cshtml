@@ -1,0 +1,63 @@
+﻿@model ToDoApp.Models.TodoItem
+
+@{
+    ViewData["Title"] = "Editar Tarea";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4 text-center display-4">Editar Tarea</h1>
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Edit" class="p-4 border rounded bg-light shadow">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                <input type="hidden" asp-for="Id" />
+
+                <div class="form-group mb-3">
+                    <label asp-for="Title" class="form-label fw-bold"></label>
+                    <input asp-for="Title" class="form-control form-control-lg" />
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Description" class="form-label fw-bold"></label>
+                    <input asp-for="Description" class="form-control form-control-lg" />
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <div class="form-group form-check mb-3">
+                    <label class="form-check-label">
+                        <input class="form-check-input" asp-for="IsCompleted" /> @Html.DisplayNameFor(model => model.IsCompleted)
+                    </label>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="CreatedAt" class="form-label fw-bold"></label>
+                    <input asp-for="CreatedAt" class="form-control" readonly />
+                    <span asp-validation-for="CreatedAt" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-4">
+                    <label asp-for="DueDate" class="form-label fw-bold"></label>
+                    <input asp-for="DueDate" class="form-control form-control-lg" />
+                    <span asp-validation-for="DueDate" class="text-danger"></span>
+                </div>
+
+                <div class="form-group text-center">
+                    <input type="submit" value="Guardar Cambios" class="btn btn-success btn-lg px-5 shadow" />
+                </div>
+            </form>
+
+            <div class="text-center mt-4">
+                <a asp-action="Index" class="btn btn-secondary btn-lg shadow">Volver a la lista</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

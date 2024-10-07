@@ -1,0 +1,59 @@
+﻿@model ToDoApp.Models.TodoItem
+
+@{
+    ViewData["Title"] = "Detalles de la Tarea";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4 text-center display-4">Detalles de la Tarea</h1>
+
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="border p-4 rounded bg-light shadow">
+                <h4 class="mb-4">Información de la Tarea</h4>
+                <hr />
+                <dl class="row">
+                    <dt class="col-sm-3 fw-bold text-primary">
+                        @Html.DisplayNameFor(model => model.Title)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.Title)
+                    </dd>
+
+                    <dt class="col-sm-3 fw-bold text-primary">
+                        @Html.DisplayNameFor(model => model.Description)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.Description)
+                    </dd>
+
+                    <dt class="col-sm-3 fw-bold text-primary">
+                        @Html.DisplayNameFor(model => model.IsCompleted)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.IsCompleted)
+                    </dd>
+
+                    <dt class="col-sm-3 fw-bold text-primary">
+                        @Html.DisplayNameFor(model => model.CreatedAt)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.CreatedAt)
+                    </dd>
+
+                    <dt class="col-sm-3 fw-bold text-primary">
+                        @Html.DisplayNameFor(model => model.DueDate)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.DueDate)
+                    </dd>
+                </dl>
+            </div>
+
+            <div class="mt-4 text-center">
+                <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-warning btn-lg mx-2 shadow">Editar</a>
+                <a asp-action="Index" class="btn btn-secondary btn-lg mx-2 shadow">Volver a la lista</a>
+            </div>
+        </div>
+    </div>
+</div>

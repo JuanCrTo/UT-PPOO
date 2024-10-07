@@ -1,0 +1,62 @@
+﻿@model ToDoApp.Models.TodoItem
+
+@{
+    ViewData["Title"] = "Eliminar Tarea";
+}
+
+<div class="container mt-4">
+    <h1 class="text-center display-4 mb-4">Eliminar Tarea</h1>
+
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="alert alert-danger p-4 rounded shadow">
+                <h3 class="text-center">¿Estás seguro de que deseas eliminar esta tarea?</h3>
+                <hr />
+                <dl class="row">
+                    <dt class="col-sm-3 fw-bold text-danger">
+                        @Html.DisplayNameFor(model => model.Title)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.Title)
+                    </dd>
+
+                    <dt class="col-sm-3 fw-bold text-danger">
+                        @Html.DisplayNameFor(model => model.Description)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.Description)
+                    </dd>
+
+                    <dt class="col-sm-3 fw-bold text-danger">
+                        @Html.DisplayNameFor(model => model.IsCompleted)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.IsCompleted)
+                    </dd>
+
+                    <dt class="col-sm-3 fw-bold text-danger">
+                        @Html.DisplayNameFor(model => model.CreatedAt)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.CreatedAt)
+                    </dd>
+
+                    <dt class="col-sm-3 fw-bold text-danger">
+                        @Html.DisplayNameFor(model => model.DueDate)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.DueDate)
+                    </dd>
+                </dl>
+
+                <div class="mt-4 text-center">
+                    <form asp-action="Delete" class="d-inline">
+                        <input type="hidden" asp-for="Id" />
+                        <input type="submit" value="Eliminar" class="btn btn-danger btn-lg shadow mx-2" />
+                    </form>
+                    <a asp-action="Index" class="btn btn-secondary btn-lg shadow mx-2">Volver a la lista</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

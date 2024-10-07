@@ -1,0 +1,63 @@
+﻿@model IEnumerable<ToDoApp.Models.TodoItem>
+
+@{
+    ViewData["Title"] = "To-Do List";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4 text-center display-4">To-Do List</h1>
+
+    <p class="text-center">
+        <a asp-action="Create" class="btn btn-lg btn-success shadow">Crear Nueva Tarea</a>
+    </p>
+
+    <table class="table table-hover table-striped table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">
+                    @Html.DisplayNameFor(model => model.Title)
+                </th>
+                <th scope="col">
+                    @Html.DisplayNameFor(model => model.Description)
+                </th>
+                <th scope="col">
+                    @Html.DisplayNameFor(model => model.IsCompleted)
+                </th>
+                <th scope="col">
+                    @Html.DisplayNameFor(model => model.CreatedAt)
+                </th>
+                <th scope="col">
+                    @Html.DisplayNameFor(model => model.DueDate)
+                </th>
+                <th scope="col">Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td class="align-middle">
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </td>
+                    <td class="align-middle">
+                        @Html.DisplayFor(modelItem => item.Description)
+                    </td>
+                    <td class="align-middle">
+                        @Html.DisplayFor(modelItem => item.IsCompleted)
+                    </td>
+                    <td class="align-middle">
+                        @Html.DisplayFor(modelItem => item.CreatedAt)
+                    </td>
+                    <td class="align-middle">
+                        @Html.DisplayFor(modelItem => item.DueDate)
+                    </td>
+                    <td class="align-middle text-center">
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning mx-1">Editar</a>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info mx-1">Detalles</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger mx-1">Eliminar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

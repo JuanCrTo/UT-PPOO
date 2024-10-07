@@ -1,0 +1,65 @@
+body[b-ja6rkq85pm] {
+    background-color: #f8f9fa;
+}
+
+h1[b-ja6rkq85pm] {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #007bff;
+}
+
+.table[b-ja6rkq85pm] {
+    margin-top: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.table thead[b-ja6rkq85pm] {
+    background-color: #007bff;
+    color: white;
+}
+
+.table tbody tr:hover[b-ja6rkq85pm] {
+    background-color: #e9ecef;
+}
+
+.btn-primary[b-ja6rkq85pm] {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover[b-ja6rkq85pm] {
+    background-color: #0056b3;
+}
+
+.btn-warning[b-ja6rkq85pm] {
+    background-color: #ffc107;
+    border: none;
+}
+
+.btn-warning:hover[b-ja6rkq85pm] {
+    background-color: #e0a800;
+}
+
+.btn-danger[b-ja6rkq85pm] {
+    background-color: #dc3545;
+    border: none;
+}
+
+.btn-danger:hover[b-ja6rkq85pm] {
+    background-color: #c82333;
+}
+
+.footer[b-ja6rkq85pm] {
+    padding: 20px 0;
+    background-color: #f1f1f1;
+    text-align: center;
+}
+
+.footer a[b-ja6rkq85pm] {
+    color: #007bff;
+}
+
+.footer a:hover[b-ja6rkq85pm] {
+    text-decoration: underline;
+}
