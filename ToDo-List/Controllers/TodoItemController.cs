@@ -7,22 +7,34 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ToDoApp.Models;
 using ToDo_List.Data;
+using Microsoft.AspNetCore.Identity;
+using ToDo_List.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ToDo_List.Controllers
 {
+    [Authorize]
     public class TodoItemController : Controller
     {
         private readonly ApplicationDbContext _context;
+        private readonly UserManager<ApplicationUser> _userManager;
+        private readonly SignInManager<ApplicationUser> _signInManager;
 
-        public TodoItemController(ApplicationDbContext context)
+        public TodoItemController(ApplicationDbContext context, UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager)
         {
             _context = context;
+            _userManager = userManager;
+            _signInManager = signInManager;
         }
 
         // GET: TodoItem
         public async Task<IActionResult> Index()
         {
-            return View(await _context.TodoItems.ToListAsync());
+            var userId = _userManager.GetUserId(User); // Obtén el ID del usuario autenticado
+            var todoItems = await _context.TodoItems
+                                           .Where(t => t.UserId == userId) // Filtra por UserId
+                                           .ToListAsync();
+            return View(todoItems);
         }
 
         // GET: TodoItem/Details/5
@@ -58,6 +70,8 @@ namespace ToDo_List.Controllers
         {
             if (ModelState.IsValid)
             {
+                todoItem.UserId = _userManager.GetUserId(User); // Asigna el UserId del usuario autenticado
+                todoItem.CreatedAt = DateTime.Now; // Asigna la fecha de creación
                 _context.Add(todoItem);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -74,16 +88,13 @@ namespace ToDo_List.Controllers
             }
 
             var todoItem = await _context.TodoItems.FindAsync(id);
-            if (todoItem == null)
+            if (todoItem == null || todoItem.UserId != _userManager.GetUserId(User)) // Verifica que el usuario sea el dueño
             {
                 return NotFound();
             }
             return View(todoItem);
         }
 
-        // POST: TodoItem/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Description,IsCompleted,CreatedAt,DueDate")] TodoItem todoItem)
@@ -91,6 +102,12 @@ namespace ToDo_List.Controllers
             if (id != todoItem.Id)
             {
                 return NotFound();
+            }
+
+            // Verifica que el usuario sea el dueño
+            if (todoItem.UserId != _userManager.GetUserId(User))
+            {
+                return Forbid(); // O puedes redirigir o manejarlo de otra manera
             }
 
             if (ModelState.IsValid)
@@ -126,7 +143,7 @@ namespace ToDo_List.Controllers
 
             var todoItem = await _context.TodoItems
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (todoItem == null)
+            if (todoItem == null || todoItem.UserId != _userManager.GetUserId(User)) // Verifica que el usuario sea el dueño
             {
                 return NotFound();
             }
@@ -134,7 +151,6 @@ namespace ToDo_List.Controllers
             return View(todoItem);
         }
 
-        // POST: TodoItem/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
@@ -142,10 +158,14 @@ namespace ToDo_List.Controllers
             var todoItem = await _context.TodoItems.FindAsync(id);
             if (todoItem != null)
             {
-                _context.TodoItems.Remove(todoItem);
+                // Verifica que el usuario sea el dueño
+                if (todoItem.UserId == _userManager.GetUserId(User))
+                {
+                    _context.TodoItems.Remove(todoItem);
+                    await _context.SaveChangesAsync();
+                }
             }
 
-            await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 

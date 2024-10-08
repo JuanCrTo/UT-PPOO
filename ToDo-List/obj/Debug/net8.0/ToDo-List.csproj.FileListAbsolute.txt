@@ -260,3 +260,4 @@ C:\Users\USER\Desktop\PERSONAL\UT\Materias\PPOO\ToDo-List\ToDo-List\ToDo-List\bi
 C:\Users\USER\Desktop\PERSONAL\UT\Materias\PPOO\ToDo-List\ToDo-List\ToDo-List\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\USER\Desktop\PERSONAL\UT\Materias\PPOO\ToDo-List\ToDo-List\ToDo-List\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\USER\Desktop\PERSONAL\UT\Materias\PPOO\ToDo-List\ToDo-List\ToDo-List\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\PERSONAL\UT\Materias\PPOO\ToDo-List\ToDo-List\ToDo-List\obj\Debug\net8.0\ToDo-List.sourcelink.json
