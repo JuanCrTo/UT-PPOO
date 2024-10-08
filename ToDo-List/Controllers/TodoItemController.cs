@@ -132,35 +132,60 @@ namespace ToDo_List.Controllers
         {
             if (id != todoItem.Id)
             {
+                Console.WriteLine("El ID en la URL no coincide con el ID del objeto TodoItem");
                 return NotFound();
             }
 
+            // Obtén el ID del usuario autenticado
+            var userId = _userManager.GetUserId(User);
+            Console.WriteLine($"UserId autenticado: {userId}");
+
             // Verifica que el usuario sea el dueño
-            if (todoItem.UserId != _userManager.GetUserId(User))
+            // Busca el TodoItem en la base de datos para asegurarte de que existe y obtener el UserId
+            var existingTodoItem = await _context.TodoItems.AsNoTracking().FirstOrDefaultAsync(t => t.Id == id);
+            if (existingTodoItem == null)
             {
-                return Forbid(); // O puedes redirigir o manejarlo de otra manera
+                Console.WriteLine($"No se encontró el TodoItem con ID: {id}");
+                return NotFound();
+            }
+
+            Console.WriteLine($"UserId del TodoItem existente: {existingTodoItem.UserId}");
+
+
+            // Verifica que el usuario autenticado sea el dueño de la tarea
+            if (existingTodoItem.UserId != userId)
+            {
+                Console.WriteLine("El usuario autenticado no es el dueño de esta tarea.");
+                return Forbid(); // El usuario no tiene acceso a esta tarea
             }
 
             if (ModelState.IsValid)
             {
                 try
                 {
+                    // Asegúrate de que estás actualizando el objeto correcto
+                    todoItem.UserId = existingTodoItem.UserId; // Mantén el UserId original
                     _context.Update(todoItem);
                     await _context.SaveChangesAsync();
+                    Console.WriteLine("TodoItem actualizado con éxito.");
                 }
                 catch (DbUpdateConcurrencyException)
                 {
                     if (!TodoItemExists(todoItem.Id))
                     {
+                        Console.WriteLine("TodoItem no existe durante la actualización.");
                         return NotFound();
                     }
                     else
                     {
+                        Console.WriteLine("Error de concurrencia durante la actualización.");
                         throw;
                     }
                 }
                 return RedirectToAction(nameof(Index));
             }
+
+            Console.WriteLine("ModelState no es válido. No se puede actualizar.");
             return View(todoItem);
         }
 

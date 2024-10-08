@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Migrations\\20241008062039_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ToDo-List\\Migrations\\20241008062039_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\views\\todoitem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\todoitem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Migrations\\20241008054513_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ToDo-List\\Migrations\\20241008054513_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\migrations\\20241008062039_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\migrations\\20241008062039_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\migrations\\20241008054513_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\migrations\\20241008054513_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +42,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241008062039_4.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Migrations\\20241008062039_4.cs",
-              "RelativeDocumentMoniker": "ToDo-List\\Migrations\\20241008062039_4.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Migrations\\20241008062039_4.cs",
-              "RelativeToolTip": "ToDo-List\\Migrations\\20241008062039_4.cs",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ToDo-List\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ToDo-List\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T06:20:39.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T21:26:19.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ToDo-List\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ToDo-List\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAywB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:26:19.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -59,25 +78,23 @@
               "RelativeToolTip": "ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T06:15:07.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T06:15:07.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Models\\TodoItem.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Models\\TodoItem.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Models\\TodoItem.cs",
               "RelativeToolTip": "ToDo-List\\Models\\TodoItem.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAzwCcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAABBwCcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T05:48:15.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T05:48:15.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "20241008054513_3.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Migrations\\20241008054513_3.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Migrations\\20241008054513_3.cs",
@@ -85,34 +102,44 @@
               "RelativeToolTip": "ToDo-List\\Migrations\\20241008054513_3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T05:45:13.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T05:45:13.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Create.cshtml",
               "RelativeDocumentMoniker": "ToDo-List\\Views\\TodoItem\\Create.cshtml",
               "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Create.cshtml",
               "RelativeToolTip": "ToDo-List\\Views\\TodoItem\\Create.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAzwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T05:42:21.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T05:42:21.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TodoItemController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Controllers\\TodoItemController.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Controllers\\TodoItemController.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Controllers\\TodoItemController.cs",
               "RelativeToolTip": "ToDo-List\\Controllers\\TodoItemController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAzwGAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwLAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T05:40:39.327Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241008062039_4.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Migrations\\20241008062039_4.cs",
+              "RelativeDocumentMoniker": "ToDo-List\\Migrations\\20241008062039_4.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Migrations\\20241008062039_4.cs",
+              "RelativeToolTip": "ToDo-List\\Migrations\\20241008062039_4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:20:39.551Z"
             }
           ]
         }
