@@ -10,6 +10,7 @@ using ToDo_List.Data;
 using Microsoft.AspNetCore.Identity;
 using ToDo_List.Models;
 using Microsoft.AspNetCore.Authorization;
+using Newtonsoft.Json;
 
 namespace ToDo_List.Controllers
 {
@@ -68,14 +69,44 @@ namespace ToDo_List.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Title,Description,IsCompleted,CreatedAt,DueDate")] TodoItem todoItem)
         {
+            // Obtén el ID y correo electrónico del usuario autenticado
+            var userId = _userManager.GetUserId(User);
+            var userEmail = (await _userManager.GetUserAsync(User))?.Email; // Obtén el correo electrónico del usuario
+            Console.WriteLine($"UserId: {userId}, Email: {userEmail}"); // Para depuración
+
+            // Asegúrate de que el usuario esté autenticado
+            if (string.IsNullOrEmpty(userId))
+            {
+                ModelState.AddModelError("", "El usuario no está autenticado.");
+                return View(todoItem);
+            }
+
+            // Asigna el UserId del usuario autenticado
+            todoItem.UserId = userId;
+            todoItem.CreatedAt = DateTime.Now; // Asigna la fecha de creación
+
+            Console.WriteLine($"ModelState IsValid: {ModelState.IsValid}");
+            foreach (var state in ModelState)
+            {
+                Console.WriteLine($"Key: {state.Key}, Errors: {string.Join(", ", state.Value.Errors.Select(e => e.ErrorMessage))}");
+            }
+
+            Console.WriteLine($"TodoItem: {JsonConvert.SerializeObject(todoItem)}");
+
+
             if (ModelState.IsValid)
             {
-                todoItem.UserId = _userManager.GetUserId(User); // Asigna el UserId del usuario autenticado
-                todoItem.CreatedAt = DateTime.Now; // Asigna la fecha de creación
                 _context.Add(todoItem);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+
+            // Imprimir los errores de ModelState en la consola para debug
+            foreach (var error in ModelState.Values.SelectMany(v => v.Errors))
+            {
+                Console.WriteLine(error.ErrorMessage); // Para Debug en consola
+            }
+
             return View(todoItem);
         }
 

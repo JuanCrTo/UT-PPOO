@@ -31,10 +31,10 @@ namespace ToDoApp.Models
         public DateTime? DueDate { get; set; }
 
 
-        [Required]
+        //[Required]
         public string UserId { get; set; }
 
-        [ForeignKey("UsuarioId")]
+        //[ForeignKey("UserId")]
         public ApplicationUser User { get; set; }
     }
 }
