@@ -1,5 +1,7 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using ToDo_List.Models;
 
 namespace ToDoApp.Models
 {
@@ -27,5 +29,12 @@ namespace ToDoApp.Models
 
         [DisplayName("Fecha de Vencimiento")]
         public DateTime? DueDate { get; set; }
+
+
+        [Required]
+        public string UserId { get; set; }
+
+        [ForeignKey("UsuarioId")]
+        public ApplicationUser User { get; set; }
     }
 }
