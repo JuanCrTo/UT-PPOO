@@ -31,14 +31,40 @@
                     <li class="nav-item">
                             <a class="nav-link text-white hover-text-warning" asp-area="" asp-controller="Home" asp-action="Contact">Contacto</a>
                     </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-white hover-text-warning" asp-area="" asp-controller="Account" asp-action="Register">Registro</a>
-                        </li>
+                    <li class="nav-item">
+                            @if (!User.Identity.IsAuthenticated)
+                            {
+                            <li class="nav-item">
+                                <a class="nav-link text-white hover-text-warning" asp-area="" asp-controller="Account" asp-action="Register">Registro</a>
+                            </li>
+                            }
+                    </li>
+                </ul>
+                <ul class="navbar-nav">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-white" asp-area="" asp-controller="Account" asp-action="Logout">Cerrar Sesión</a>
+                            </li>
+                            <li class="nav-item">
+                                <span class="nav-link text-white">Hola, @User.Identity.Name</span>
+                            </li>
+                        }
                 </ul>
             </div>
         </div>
     </nav>
 </div>
+
+    @{
+        // Convertir las claims del usuario en un objeto
+        var userClaims = User.Claims.ToList();
+        Console.WriteLine("Propiedades del usuario autenticado:");
+        foreach (var claim in userClaims)
+        {
+            Console.WriteLine($"{claim.Type}: {claim.Value}");
+        }
+    }
 
     <div class="container">
         <main role="main" class="pb-3">
