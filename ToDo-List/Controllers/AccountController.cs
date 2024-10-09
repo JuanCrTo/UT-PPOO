@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 using ToDo_List.Models;
 
 namespace ToDo_List.Controllers
@@ -52,6 +53,7 @@ namespace ToDo_List.Controllers
                 if (result.Succeeded)
                 {
                     Console.WriteLine("Registro exitoso. Iniciando sesión del usuario.");
+                    await _userManager.AddClaimAsync(user, new Claim("http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameuser", model.Name));
                     await _signInManager.SignInAsync(user, isPersistent: false);
                     return RedirectToAction("Index", "Home");
                 }

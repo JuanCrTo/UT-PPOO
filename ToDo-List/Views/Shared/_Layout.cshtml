@@ -39,6 +39,14 @@
                             </li>
                             }
                     </li>
+                        <li class="nav-item">
+                            @if (!User.Identity.IsAuthenticated)
+                            {
+                            <li class="nav-item">
+                                <a class="nav-link text-white hover-text-warning" asp-area="" asp-controller="Account" asp-action="Login">Iniciar Sesión</a>
+                            </li>
+                            }
+                        </li>
                 </ul>
                 <ul class="navbar-nav">
                         @if (User.Identity.IsAuthenticated)
@@ -47,7 +55,13 @@
                                 <a class="nav-link text-white" asp-area="" asp-controller="Account" asp-action="Logout">Cerrar Sesión</a>
                             </li>
                             <li class="nav-item">
-                                <span class="nav-link text-white">Hola, @User.Identity.Name</span>
+                            @using System.Security.Claims
+
+                                @{
+                                    var userName = User.Claims.FirstOrDefault(c => c.Type == "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameuser")?.Value;
+                                }
+
+                                <span class="nav-link text-white">Hola, @(userName ?? "Usuario")</span>
                             </li>
                         }
                 </ul>

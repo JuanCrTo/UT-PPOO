@@ -1,4 +1,3 @@
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.EntityFrameworkCore;
 using ToDo_List.Data;
 using ToDo_List.Models;
@@ -15,19 +14,11 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddDefaultIdentity<ApplicationUser>(options =>
 {
     options.SignIn.RequireConfirmedAccount = false;
-    // Otras opciones de configuración si son necesarias
 })
 .AddEntityFrameworkStores<ApplicationDbContext>();
 
+// Configurar los controladores sin autorización global
 builder.Services.AddControllersWithViews();
-
-// Configurar la autenticación global
-builder.Services.AddAuthorization(options =>
-{
-    options.FallbackPolicy = new AuthorizationPolicyBuilder()
-        .RequireAuthenticatedUser()
-        .Build();
-});
 
 // Configurar la cookie de autenticación
 builder.Services.ConfigureApplicationCookie(options =>
