@@ -1,4 +1,5 @@
-﻿using System.ComponentModel;
+﻿using System;
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using ToDo_List.Models;
@@ -7,6 +8,13 @@ namespace ToDoApp.Models
 {
     public class TodoItem
     {
+        public enum EstadoTarea // Enum definido dentro de la clase
+        {
+            Pendiente,
+            EnDesarrollo,
+            Finalizado
+        }
+
         [Key]
         public int Id { get; set; }
 
@@ -20,8 +28,8 @@ namespace ToDoApp.Models
         public string Description { get; set; }
 
         [Required]
-        [DisplayName("Completado")]
-        public bool IsCompleted { get; set; }
+        [DisplayName("Estado")]
+        public EstadoTarea Estado { get; set; } // Reemplaza IsCompleted
 
         [Required]
         [DisplayName("Fecha de Creación")]
@@ -29,7 +37,6 @@ namespace ToDoApp.Models
 
         [DisplayName("Fecha de Vencimiento")]
         public DateTime? DueDate { get; set; }
-
 
         //[Required]
         public string UserId { get; set; }

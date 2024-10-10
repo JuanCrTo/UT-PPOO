@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\ToDo-List.csproj": {}
+    "C:\\Users\\USER\\Desktop\\PERSONAL\\Programación\\GITHUB\\UT\\ToDo-List\\ToDo-List\\ToDo-List.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\ToDo-List.csproj": {
+    "C:\\Users\\USER\\Desktop\\PERSONAL\\Programación\\GITHUB\\UT\\ToDo-List\\ToDo-List\\ToDo-List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\ToDo-List.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programación\\GITHUB\\UT\\ToDo-List\\ToDo-List\\ToDo-List.csproj",
         "projectName": "ToDo-List",
-        "projectPath": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\ToDo-List.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programación\\GITHUB\\UT\\ToDo-List\\ToDo-List\\ToDo-List.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programación\\GITHUB\\UT\\ToDo-List\\ToDo-List\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

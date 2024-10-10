@@ -21,7 +21,7 @@
                     @Html.DisplayNameFor(model => model.Description)
                 </th>
                 <th scope="col">
-                    @Html.DisplayNameFor(model => model.IsCompleted)
+                    @Html.DisplayNameFor(model => model.First().Estado) <!-- Cambiar IsCompleted por Estado -->
                 </th>
                 <th scope="col">
                     @Html.DisplayNameFor(model => model.CreatedAt)
@@ -43,7 +43,7 @@
                         @Html.DisplayFor(modelItem => item.Description)
                     </td>
                     <td class="align-middle">
-                        @Html.DisplayFor(modelItem => item.IsCompleted)
+                        @Html.DisplayFor(modelItem => item.Estado) <!-- Cambiar IsCompleted por Estado -->
                     </td>
                     <td class="align-middle">
                         @Html.DisplayFor(modelItem => item.CreatedAt)

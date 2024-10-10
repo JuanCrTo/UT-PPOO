@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "coM2go/rhpY=",
+  "dgSpecHash": "MV6zG2bPB/s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\ToDo-List.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programación\\GITHUB\\UT\\ToDo-List\\ToDo-List\\ToDo-List.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
