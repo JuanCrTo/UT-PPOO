@@ -26,10 +26,15 @@
                     <span asp-validation-for="Description" class="text-danger"></span>
                 </div>
 
-                <div class="form-group form-check mb-3">
-                    <label class="form-check-label">
-                        <input class="form-check-input" asp-for="IsCompleted" /> @Html.DisplayNameFor(model => model.IsCompleted)
-                    </label>
+                <div class="estado">
+                    <div class="list-group">
+                        <label class="form-label fw-bold">Estado</label>
+                        <div class="btn-group" role="group" aria-label="Basic mixed styles example">
+                            <button type="button" class="btn btn-secondary">Pendiente</button>
+                            <button type="button" class="btn btn-warning">En desarrollo</button>
+                            <button type="button" class="btn btn-success">Finalizada</button>
+                        </div>
+                    </div>
                 </div>
 
                 <div class="form-group mb-3">
@@ -59,5 +64,9 @@
 @section Scripts {
     @{
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
+
+
     }
+
+
 }
