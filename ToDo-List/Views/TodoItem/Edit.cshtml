@@ -26,10 +26,26 @@
                     <span asp-validation-for="Description" class="text-danger"></span>
                 </div>
 
-                <div class="form-group form-check mb-3">
-                    <label class="form-check-label">
-                        <input class="form-check-input" asp-for="IsCompleted" /> @Html.DisplayNameFor(model => model.IsCompleted)
-                    </label>
+                <input type="hidden" asp-for="Estado" /> <!-- Campo oculto para almacenar el estado -->
+
+                <div class="estado mb-3">
+                    <div class="list-group">
+                        <label class="form-label fw-bold">Estado</label>
+                        <div class="btn-group" role="group" aria-label="Estado">
+                            <button type="button" class="btn btn-secondary" onclick="setEstado('Pendiente')"
+                            @(Model.Estado == ToDoApp.Models.TodoItem.EstadoTarea.Pendiente ? "disabled" : "")>
+                                Pendiente
+                            </button>
+                            <button type="button" class="btn btn-warning" onclick="setEstado('EnDesarrollo')"
+                            @(Model.Estado == ToDoApp.Models.TodoItem.EstadoTarea.EnDesarrollo ? "disabled" : "")>
+                                En desarrollo
+                            </button>
+                            <button type="button" class="btn btn-success" onclick="setEstado('Finalizado')"
+                            @(Model.Estado == ToDoApp.Models.TodoItem.EstadoTarea.Finalizado ? "disabled" : "")>
+                                Finalizada
+                            </button>
+                        </div>
+                    </div>
                 </div>
 
                 <div class="form-group mb-3">
@@ -57,7 +73,9 @@
 </div>
 
 @section Scripts {
-    @{
-        await Html.RenderPartialAsync("_ValidationScriptsPartial");
-    }
+    <script>
+        function setEstado(estado) {
+            document.querySelector('input[name="Estado"]').value = estado; // Establecer el valor del estado en el campo oculto
+        }
+    </script>
 }

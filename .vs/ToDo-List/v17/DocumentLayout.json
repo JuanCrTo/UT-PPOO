@@ -1,12 +1,197 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\programaci\u00F3n\\github\\ut\\todo-list\\todo-list\\controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\programaci\u00F3n\\github\\ut\\todo-list\\todo-list\\views\\todoitem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\todoitem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\programaci\u00F3n\\github\\ut\\todo-list\\todo-list\\views\\todoitem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\todoitem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\programaci\u00F3n\\github\\ut\\todo-list\\todo-list\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\programaci\u00F3n\\github\\ut\\todo-list\\todo-list\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\programaci\u00F3n\\github\\ut\\todo-list\\todo-list\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\programaci\u00F3n\\github\\ut\\todo-list\\todo-list\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\programaci\u00F3n\\github\\ut\\todo-list\\todo-list\\views\\todoitem\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\todoitem\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\programaci\u00F3n\\github\\ut\\todo-list\\todo-list\\views\\todoitem\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\todoitem\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\programaci\u00F3n\\github\\ut\\todo-list\\todo-list\\views\\todoitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\todoitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\programaci\u00F3n\\github\\ut\\todo-list\\todo-list\\migrations\\20241010052402_cambiarestadotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\migrations\\20241010052402_cambiarestadotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItemController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Controllers\\TodoItemController.cs",
+              "RelativeDocumentMoniker": "ToDo-List\\Controllers\\TodoItemController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Controllers\\TodoItemController.cs",
+              "RelativeToolTip": "ToDo-List\\Controllers\\TodoItemController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAQwLIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:30:35.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241010052402_CambiarEstadoTarea.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Migrations\\20241010052402_CambiarEstadoTarea.cs",
+              "RelativeDocumentMoniker": "ToDo-List\\Migrations\\20241010052402_CambiarEstadoTarea.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Migrations\\20241010052402_CambiarEstadoTarea.cs",
+              "RelativeToolTip": "ToDo-List\\Migrations\\20241010052402_CambiarEstadoTarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:24:03.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ToDo-List\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ToDo-List\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:21:56.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:21:51.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Create.cshtml",
+              "RelativeDocumentMoniker": "ToDo-List\\Views\\TodoItem\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Create.cshtml",
+              "RelativeToolTip": "ToDo-List\\Views\\TodoItem\\Create.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAywEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T04:58:53.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ToDo-List\\Views\\TodoItem\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Edit.cshtml",
+              "RelativeToolTip": "ToDo-List\\Views\\TodoItem\\Edit.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAxwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T04:58:05.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ToDo-List\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "ToDo-List\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:21:45.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ToDo-List\\Views\\TodoItem\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Delete.cshtml",
+              "RelativeToolTip": "ToDo-List\\Views\\TodoItem\\Delete.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAxwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T05:17:12.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Details.cshtml",
+              "RelativeDocumentMoniker": "ToDo-List\\Views\\TodoItem\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Details.cshtml",
+              "RelativeToolTip": "ToDo-List\\Views\\TodoItem\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T04:58:12.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Index.cshtml",
+              "RelativeDocumentMoniker": "ToDo-List\\Views\\TodoItem\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Index.cshtml",
+              "RelativeToolTip": "ToDo-List\\Views\\TodoItem\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAhwC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T04:58:09.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "ToDo-List\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Models\\TodoItem.cs",
+              "RelativeToolTip": "ToDo-List\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:46:14.879Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

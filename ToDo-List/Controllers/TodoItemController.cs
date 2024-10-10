@@ -67,7 +67,7 @@ namespace ToDo_List.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Title,Description,IsCompleted,CreatedAt,DueDate")] TodoItem todoItem)
+        public async Task<IActionResult> Create([Bind("Id,Title,Description,Estado,CreatedAt,DueDate")] TodoItem todoItem)
         {
             // Obtén el ID y correo electrónico del usuario autenticado
             var userId = _userManager.GetUserId(User);
@@ -128,7 +128,7 @@ namespace ToDo_List.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Description,IsCompleted,CreatedAt,DueDate")] TodoItem todoItem)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Description,Estado,CreatedAt,DueDate")] TodoItem todoItem)
         {
             if (id != todoItem.Id)
             {
