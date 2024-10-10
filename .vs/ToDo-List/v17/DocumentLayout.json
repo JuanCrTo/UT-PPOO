@@ -1,82 +1,91 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\",
+  "WorkspaceRootPath": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomas\\AppData\\Local\\Temp\\bui1allm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\views\\todoitem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\todoitem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\views\\todoitem\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\tomas\\onedrive\\escritorio\\ut ppoo\\ut-ppoo\\todo-list\\views\\todoitem\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\todoitem\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\views\\todoitem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\tomas\\onedrive\\escritorio\\ut ppoo\\ut-ppoo\\todo-list\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\tomas\\onedrive\\escritorio\\ut ppoo\\ut-ppoo\\todo-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\tomas\\onedrive\\escritorio\\ut ppoo\\ut-ppoo\\todo-list\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\tomas\\onedrive\\escritorio\\ut ppoo\\ut-ppoo\\todo-list\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\tomas\\onedrive\\escritorio\\ut ppoo\\ut-ppoo\\todo-list\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\tomas\\onedrive\\escritorio\\ut ppoo\\ut-ppoo\\todo-list\\views\\todoitem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\todoitem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\tomas\\onedrive\\escritorio\\ut ppoo\\ut-ppoo\\todo-list\\views\\todoitem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\todoitem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\views\\todoitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\tomas\\onedrive\\escritorio\\ut ppoo\\ut-ppoo\\todo-list\\views\\todoitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\todoitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\tomas\\onedrive\\escritorio\\ut ppoo\\ut-ppoo\\todo-list\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\tomas\\onedrive\\escritorio\\ut ppoo\\ut-ppoo\\todo-list\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\tomas\\onedrive\\escritorio\\ut ppoo\\ut-ppoo\\todo-list\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\tomas\\onedrive\\escritorio\\ut ppoo\\ut-ppoo\\todo-list\\controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\tomas\\onedrive\\escritorio\\ut ppoo\\ut-ppoo\\todo-list\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\tomas\\onedrive\\escritorio\\ut ppoo\\ut-ppoo\\todo-list\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\tomas\\onedrive\\escritorio\\ut ppoo\\ut-ppoo\\todo-list\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\tomas\\onedrive\\escritorio\\ut ppoo\\ut-ppoo\\todo-list\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\migrations\\20241008062039_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\tomas\\onedrive\\escritorio\\ut ppoo\\ut-ppoo\\todo-list\\migrations\\20241008062039_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\migrations\\20241008062039_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\todo-list\\todo-list\\todo-list\\migrations\\20241008054513_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\tomas\\onedrive\\escritorio\\ut ppoo\\ut-ppoo\\todo-list\\migrations\\20241008054513_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\migrations\\20241008054513_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomas\\AppData\\Local\\Temp\\bui1allm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomas\\AppData\\Local\\Temp\\bui1allm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,15 +95,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\tomas\\AppData\\Local\\Temp\\bui1allm..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\bui1allm..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-10T04:02:53.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Models\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Models\\Login.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Models\\Login.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Models\\Login.cs",
               "RelativeToolTip": "ToDo-List\\Models\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,89 +127,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Views\\TodoItem\\Delete.cshtml",
               "RelativeDocumentMoniker": "ToDo-List\\Views\\TodoItem\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Views\\TodoItem\\Delete.cshtml",
               "RelativeToolTip": "ToDo-List\\Views\\TodoItem\\Delete.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAzwD4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-09T03:29:58.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Views\\Account\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "ToDo-List\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "ToDo-List\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAzwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T00:11:00.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T00:11:00.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "ToDo-List\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "ToDo-List\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAABAAAAAAAAAAAAAzwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T00:00:32.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T00:00:32.262Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ToDo-List\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ToDo-List\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABkAAAAAAAAAAAAAAC0AAACYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T23:41:35.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T23:41:35.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Controllers\\AccountController.cs",
               "RelativeToolTip": "ToDo-List\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAgwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T21:26:19.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T21:26:19.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Views\\TodoItem\\Edit.cshtml",
               "RelativeDocumentMoniker": "ToDo-List\\Views\\TodoItem\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Views\\TodoItem\\Edit.cshtml",
               "RelativeToolTip": "ToDo-List\\Views\\TodoItem\\Edit.cshtml",
               "ViewState": "AgIAAB8AAAAAAAAAAAA0wD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T23:24:24.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T23:24:24.207Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Program.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Program.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Program.cs",
               "RelativeToolTip": "ToDo-List\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -194,63 +213,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Models\\ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Models\\ApplicationUser.cs",
               "RelativeToolTip": "ToDo-List\\Models\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T02:14:26.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T02:14:26.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Views\\TodoItem\\Create.cshtml",
               "RelativeDocumentMoniker": "ToDo-List\\Views\\TodoItem\\Create.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Views\\TodoItem\\Create.cshtml",
               "RelativeToolTip": "ToDo-List\\Views\\TodoItem\\Create.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAzwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T05:42:21.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T05:42:21.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Models\\Register.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Models\\Register.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Models\\Register.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Models\\Register.cs",
               "RelativeToolTip": "ToDo-List\\Models\\Register.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T02:36:55.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T02:36:55.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Views\\TodoItem\\Index.cshtml",
               "RelativeDocumentMoniker": "ToDo-List\\Views\\TodoItem\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Views\\TodoItem\\Index.cshtml",
               "RelativeToolTip": "ToDo-List\\Views\\TodoItem\\Index.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAzwD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T23:24:24.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T23:24:24.82Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ToDo-List\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAIwAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -258,24 +273,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "TodoItemController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Controllers\\TodoItemController.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Controllers\\TodoItemController.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Controllers\\TodoItemController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Controllers\\TodoItemController.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Controllers\\TodoItemController.cs",
               "RelativeToolTip": "ToDo-List\\Controllers\\TodoItemController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T05:40:39.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T05:40:39.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "ToDo-List\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -283,11 +297,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeToolTip": "ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -295,11 +309,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "TodoItem.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Models\\TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Models\\TodoItem.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Models\\TodoItem.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Models\\TodoItem.cs",
               "RelativeToolTip": "ToDo-List\\Models\\TodoItem.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAqwCcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -307,11 +321,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "20241008054513_3.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Migrations\\20241008054513_3.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Migrations\\20241008054513_3.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Migrations\\20241008054513_3.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Migrations\\20241008054513_3.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Migrations\\20241008054513_3.cs",
               "RelativeToolTip": "ToDo-List\\Migrations\\20241008054513_3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -319,11 +333,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "20241008062039_4.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Migrations\\20241008062039_4.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Migrations\\20241008062039_4.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Migrations\\20241008062039_4.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\Migrations\\20241008062039_4.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\Migrations\\20241008062039_4.cs",
               "RelativeToolTip": "ToDo-List\\Migrations\\20241008062039_4.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

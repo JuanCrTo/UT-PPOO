@@ -8164,19 +8164,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {}
+    "C:\\Users\\tomas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\ToDo-List.csproj",
+      "projectUniqueName": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\ToDo-List.csproj",
       "projectName": "ToDo-List",
-      "projectPath": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\ToDo-List.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\ToDo-List\\ToDo-List\\ToDo-List\\obj\\",
+      "projectPath": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\ToDo-List.csproj",
+      "packagesPath": "C:\\Users\\tomas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tomas\\OneDrive\\Escritorio\\UT PPOO\\UT-PPOO\\ToDo-List\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
