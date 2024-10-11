@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\PERSONAL\\Programación\\GITHUB\\UT\\ToDo-List\\ToDo-List\\ToDo-List.csproj": {}
+    "C:\\Users\\sd288\\Documents\\A. Ingeniería de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\ToDo-List.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\PERSONAL\\Programación\\GITHUB\\UT\\ToDo-List\\ToDo-List\\ToDo-List.csproj": {
+    "C:\\Users\\sd288\\Documents\\A. Ingeniería de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\ToDo-List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programación\\GITHUB\\UT\\ToDo-List\\ToDo-List\\ToDo-List.csproj",
+        "projectUniqueName": "C:\\Users\\sd288\\Documents\\A. Ingeniería de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\ToDo-List.csproj",
         "projectName": "ToDo-List",
-        "projectPath": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programación\\GITHUB\\UT\\ToDo-List\\ToDo-List\\ToDo-List.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programación\\GITHUB\\UT\\ToDo-List\\ToDo-List\\obj\\",
+        "projectPath": "C:\\Users\\sd288\\Documents\\A. Ingeniería de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\ToDo-List.csproj",
+        "packagesPath": "C:\\Users\\sd288\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sd288\\Documents\\A. Ingeniería de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sd288\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

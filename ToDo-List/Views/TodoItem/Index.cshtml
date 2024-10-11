@@ -5,6 +5,7 @@
 }
 
 <div class="container mt-4">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" />
     <h1 class="mb-4 text-center display-4">To-Do List</h1>
 
     <p class="text-center">
@@ -15,21 +16,59 @@
         <thead class="table-dark">
             <tr>
                 <th scope="col">
+                    <div style="display: flex; justify-content: center; align-items: center;">
+                    <span class="material-symbols-outlined">
+                        add_task
+                    </span>
                     @Html.DisplayNameFor(model => model.Title)
+                    </div>
                 </th>
-                <th scope="col">
+
+                <th scope="col"  >
+                    <div style="display: flex; justify-content: center; align-items: center;">
+                        <span class="material-symbols-outlined">
+                            description
+                        </span>
                     @Html.DisplayNameFor(model => model.Description)
+                    </div>
                 </th>
+
                 <th scope="col">
+                    <div style="display: flex; justify-content: center; align-items: center;">
+                        <span class="material-symbols-outlined">
+                            toggle_off
+                        </span>
                     @Html.DisplayNameFor(model => model.First().Estado) <!-- Cambiar IsCompleted por Estado -->
+                    </div>
                 </th>
-                <th scope="col">
+
+                <th scope="col" >
+                    <div style="display: flex; justify-content: center; align-items: center;">
+                    <span class="material-symbols-outlined">
+                        calendar_month
+                    </span>
                     @Html.DisplayNameFor(model => model.CreatedAt)
+                    </div>
                 </th>
+
                 <th scope="col">
+                    <div style="display: flex; justify-content: center; align-items: center;">
+                        <span class="material-symbols-outlined">
+                            pending_actions
+                        </span>
                     @Html.DisplayNameFor(model => model.DueDate)
+                    </div>
                 </th>
-                <th scope="col">Acciones</th>
+
+                <th scope="col" >
+                    <div style="display: flex; justify-content: center; align-items: center;">
+                        <span class="material-symbols-outlined">
+                            webhook
+                        </span>
+                        Acciones
+                    </div>
+                </th>
+
             </tr>
         </thead>
         <tbody>
