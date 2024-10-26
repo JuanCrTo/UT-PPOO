@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\",
+  "WorkspaceRootPath": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\programaci\u00F3n\\github\\ut\\todo-list\\todo-list\\todo-list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\todo-list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -59,6 +60,49 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\programaci\u00F3n\\github\\ut\\todo-list\\todo-list\\migrations\\20241010052402_cambiarestadotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\sd288\\documents\\a. ingenier\u00EDa de sistemas\\cuarto semestre\\profundizacion de poo\\trabajos\\todolist\\ut-ppoo\\todo-list\\views\\todoitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\todoitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\sd288\\documents\\a. ingenier\u00EDa de sistemas\\cuarto semestre\\profundizacion de poo\\trabajos\\todolist\\ut-ppoo\\todo-list\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\sd288\\documents\\a. ingenier\u00EDa de sistemas\\cuarto semestre\\profundizacion de poo\\trabajos\\todolist\\ut-ppoo\\todo-list\\controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\sd288\\documents\\a. ingenier\u00EDa de sistemas\\cuarto semestre\\profundizacion de poo\\trabajos\\todolist\\ut-ppoo\\todo-list\\views\\todoitem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\todoitem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\sd288\\documents\\a. ingenier\u00EDa de sistemas\\cuarto semestre\\profundizacion de poo\\trabajos\\todolist\\ut-ppoo\\todo-list\\views\\todoitem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\todoitem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\sd288\\documents\\a. ingenier\u00EDa de sistemas\\cuarto semestre\\profundizacion de poo\\trabajos\\todolist\\ut-ppoo\\todo-list\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\sd288\\documents\\a. ingenier\u00EDa de sistemas\\cuarto semestre\\profundizacion de poo\\trabajos\\todolist\\ut-ppoo\\todo-list\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\sd288\\documents\\a. ingenier\u00EDa de sistemas\\cuarto semestre\\profundizacion de poo\\trabajos\\todolist\\ut-ppoo\\todo-list\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\sd288\\documents\\a. ingenier\u00EDa de sistemas\\cuarto semestre\\profundizacion de poo\\trabajos\\todolist\\ut-ppoo\\todo-list\\views\\todoitem\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\todoitem\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\sd288\\documents\\a. ingenier\u00EDa de sistemas\\cuarto semestre\\profundizacion de poo\\trabajos\\todolist\\ut-ppoo\\todo-list\\views\\todoitem\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\views\\todoitem\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\sd288\\documents\\a. ingenier\u00EDa de sistemas\\cuarto semestre\\profundizacion de poo\\trabajos\\todolist\\ut-ppoo\\todo-list\\migrations\\20241010052402_cambiarestadotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> origin/samuel
       "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\migrations\\20241010052402_cambiarestadotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -69,10 +113,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
               "Title": "ToDo-List.csproj",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\ToDo-List.csproj",
@@ -82,10 +131,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-17T14:26:56.506Z",
+=======
+              "DocumentIndex": 2,
+              "Title": "TodoItemController.cs",
+              "DocumentMoniker": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Controllers\\TodoItemController.cs",
+              "RelativeDocumentMoniker": "ToDo-List\\Controllers\\TodoItemController.cs",
+              "ToolTip": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Controllers\\TodoItemController.cs",
+              "RelativeToolTip": "ToDo-List\\Controllers\\TodoItemController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAQwMEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:30:35.855Z",
+>>>>>>> origin/samuel
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 2,
               "Title": "Register.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Models\\Register.cs",
@@ -134,10 +195,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
+=======
+              "DocumentIndex": 6,
+>>>>>>> origin/samuel
               "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeToolTip": "ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -145,6 +209,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Index.cshtml",
@@ -166,10 +231,60 @@
               "ViewState": "AgIAABMAAAAAAAAAAAAowBoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T04:46:14.879Z"
+=======
+              "DocumentIndex": 1,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "ToDo-List\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Models\\TodoItem.cs",
+              "RelativeToolTip": "ToDo-List\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:46:14.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Views\\TodoItem\\Index.cshtml",
+              "RelativeDocumentMoniker": "ToDo-List\\Views\\TodoItem\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Views\\TodoItem\\Index.cshtml",
+              "RelativeToolTip": "ToDo-List\\Views\\TodoItem\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T04:58:09.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ToDo-List\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ToDo-List\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:21:56.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241010052402_CambiarEstadoTarea.cs",
+              "DocumentMoniker": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Migrations\\20241010052402_CambiarEstadoTarea.cs",
+              "RelativeDocumentMoniker": "ToDo-List\\Migrations\\20241010052402_CambiarEstadoTarea.cs",
+              "ToolTip": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Migrations\\20241010052402_CambiarEstadoTarea.cs",
+              "RelativeToolTip": "ToDo-List\\Migrations\\20241010052402_CambiarEstadoTarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:24:03.024Z"
+>>>>>>> origin/samuel
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+<<<<<<< HEAD
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ToDo-List\\Views\\Shared\\_Layout.cshtml",
@@ -194,10 +309,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
+=======
+>>>>>>> origin/samuel
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Views\\TodoItem\\Create.cshtml",
               "RelativeDocumentMoniker": "ToDo-List\\Views\\TodoItem\\Create.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Views\\TodoItem\\Create.cshtml",
               "RelativeToolTip": "ToDo-List\\Views\\TodoItem\\Create.cshtml",
               "ViewState": "AgIAACoAAAAAAAAAAAAywEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -205,11 +322,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 7,
+=======
+              "DocumentIndex": 3,
+>>>>>>> origin/samuel
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Views\\TodoItem\\Edit.cshtml",
               "RelativeDocumentMoniker": "ToDo-List\\Views\\TodoItem\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Views\\TodoItem\\Edit.cshtml",
               "RelativeToolTip": "ToDo-List\\Views\\TodoItem\\Edit.cshtml",
               "ViewState": "AgIAADIAAAAAAAAAAAAxwFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -217,11 +338,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 11,
+=======
+              "DocumentIndex": 7,
+>>>>>>> origin/samuel
               "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Models\\ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Models\\ApplicationUser.cs",
               "RelativeToolTip": "ToDo-List\\Models\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -229,11 +354,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 12,
+=======
+              "DocumentIndex": 8,
+>>>>>>> origin/samuel
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Views\\TodoItem\\Delete.cshtml",
               "RelativeDocumentMoniker": "ToDo-List\\Views\\TodoItem\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Views\\TodoItem\\Delete.cshtml",
               "RelativeToolTip": "ToDo-List\\Views\\TodoItem\\Delete.cshtml",
               "ViewState": "AgIAAB0AAAAAAAAAAAAxwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -241,11 +370,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 13,
+=======
+              "DocumentIndex": 9,
+>>>>>>> origin/samuel
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Views\\TodoItem\\Details.cshtml",
               "RelativeDocumentMoniker": "ToDo-List\\Views\\TodoItem\\Details.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sd288\\Documents\\A. Ingenier\u00EDa de Sistemas\\Cuarto Semestre\\PROFUNDIZACION DE POO\\TRABAJOS\\ToDoList\\UT-PPOO\\ToDo-List\\Views\\TodoItem\\Details.cshtml",
               "RelativeToolTip": "ToDo-List\\Views\\TodoItem\\Details.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAxwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

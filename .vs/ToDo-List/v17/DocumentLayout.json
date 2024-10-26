@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|c:\\users\\user\\desktop\\personal\\programaci\u00F3n\\github\\ut\\todo-list\\todo-list\\todo-list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{934B331F-DA7B-49C9-9D0C-9AE2A8C20491}|ToDo-List\\ToDo-List.csproj|solutionrelative:todo-list\\todo-list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -74,6 +78,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAADgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T02:36:38.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ToDo-List.csproj",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\ToDo-List.csproj",
               "RelativeDocumentMoniker": "ToDo-List\\ToDo-List.csproj",
@@ -86,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Register.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Models\\Register.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Models\\Register.cs",
@@ -98,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "vpjtyquk..sql",
               "DocumentMoniker": "C:\\Users\\USER\\AppData\\Local\\Temp\\vpjtyquk..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\vpjtyquk..sql",
@@ -109,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "20241010052402_CambiarEstadoTarea.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Migrations\\20241010052402_CambiarEstadoTarea.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Migrations\\20241010052402_CambiarEstadoTarea.cs",
@@ -121,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Data\\ApplicationDbContext.cs",
@@ -133,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -145,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Index.cshtml",
               "RelativeDocumentMoniker": "ToDo-List\\Views\\TodoItem\\Index.cshtml",
@@ -157,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Models\\TodoItem.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Models\\TodoItem.cs",
@@ -169,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ToDo-List\\Views\\Shared\\_Layout.cshtml",
@@ -181,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TodoItemController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Controllers\\TodoItemController.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Controllers\\TodoItemController.cs",
@@ -193,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Create.cshtml",
               "RelativeDocumentMoniker": "ToDo-List\\Views\\TodoItem\\Create.cshtml",
@@ -205,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Edit.cshtml",
               "RelativeDocumentMoniker": "ToDo-List\\Views\\TodoItem\\Edit.cshtml",
@@ -217,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "ToDo-List\\Models\\ApplicationUser.cs",
@@ -229,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Delete.cshtml",
               "RelativeDocumentMoniker": "ToDo-List\\Views\\TodoItem\\Delete.cshtml",
@@ -241,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\Programaci\u00F3n\\GITHUB\\UT\\ToDo-List\\ToDo-List\\Views\\TodoItem\\Details.cshtml",
               "RelativeDocumentMoniker": "ToDo-List\\Views\\TodoItem\\Details.cshtml",
