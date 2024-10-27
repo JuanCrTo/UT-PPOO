@@ -11,6 +11,7 @@ using Microsoft.AspNetCore.Identity;
 using ToDo_List.Models;
 using Microsoft.AspNetCore.Authorization;
 using Newtonsoft.Json;
+using static ToDoApp.Models.TodoItem;
 
 namespace ToDo_List.Controllers
 {
@@ -29,13 +30,29 @@ namespace ToDo_List.Controllers
         }
 
         // GET: TodoItem
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchTerm, string estado)
         {
             var userId = _userManager.GetUserId(User); // Obtén el ID del usuario autenticado
-            var todoItems = await _context.TodoItems
-                                           .Where(t => t.UserId == userId) // Filtra por UserId
-                                           .ToListAsync();
-            return View(todoItems);
+            //var todoItems = await _context.TodoItems
+            //                               .Where(t => t.UserId == userId) // Filtra por UserId
+            //                               .ToListAsync();
+
+                var todoItems = _context.TodoItems.Where(t => t.UserId == userId);
+
+
+            if (!string.IsNullOrEmpty(searchTerm))
+            {
+                // Filtra por el título usando el término de búsqueda
+                todoItems = todoItems.Where(t => t.Title.Contains(searchTerm));
+            }
+
+            if (Enum.TryParse<EstadoTarea>(estado, out var estadoEnum))
+            {
+                todoItems = todoItems.Where(t => t.Estado == estadoEnum);
+            }
+
+            return View(await todoItems.ToListAsync());
+            //return View(todoItems);
         }
 
         // GET: TodoItem/Details/5
